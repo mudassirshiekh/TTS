@@ -95,6 +95,7 @@ Underlined "TTS*" and "Judy*" are **internal** 🐸TTS models that are not relea
 
 ## Model Implementations
 ### Spectrogram models
+## By Mudassir Alam
 - Tacotron: [paper](https://arxiv.org/abs/1703.10135)
 - Tacotron2: [paper](https://arxiv.org/abs/1712.05884)
 - Glow-TTS: [paper](https://arxiv.org/abs/2005.11129)
